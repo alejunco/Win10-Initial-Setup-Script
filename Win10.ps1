@@ -59,7 +59,7 @@ $tweaks = @(
 
 	### UI Tweaks ###
 	"DisableActionCenter",          # "EnableActionCenter",
-	"DisableLockScreen",            # "EnableLockScreen",
+	"EnableLockScreen",				# "DisableLockScreen",
 	# "DisableLockScreenRS1",       # "EnableLockScreenRS1",
 	# "HideNetworkFromLockScreen",  # "ShowNetworkOnLockScreen",
 	# "HideShutdownFromLockScreen", # "ShowShutdownOnLockScreen",
@@ -91,7 +91,7 @@ $tweaks = @(
 	# "DisableThumbnails",          # "EnableThumbnails",
 	# "DisableThumbsDB",              # "EnableThumbsDB",
 	# "AddENKeyboard",              # "RemoveENKeyboard",
-	# "EnableNumlock",              # "DisableNumlock",
+	"EnableNumlock",              # "DisableNumlock",
 
 	### Application Tweaks ###
 	# "DisableOneDrive",            # "EnableOneDrive",
